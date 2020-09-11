@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package javaPaint;
 
 import java.awt.Color;
@@ -15,10 +11,6 @@ import java.util.Stack;
 import javafx.scene.transform.Affine;
 import javax.swing.SwingUtilities;
 
-/**
- *
- * @author Kdeep
- */
 public class DrawingArea extends javax.swing.JPanel implements Container {
 
     /**
